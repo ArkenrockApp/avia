@@ -6,32 +6,6 @@
   "rewarded_min_watch_ms": 15000,
   "creatives": [
     {
-      "id": "avia_video_1",
-      "format": "video",
-      "placements": ["interstitial", "rewarded"],
-      "media_url": "https://arkenrockapp.github.io/avia/video_1.mp4",
-      "image_url": "https://arkenrockapp.github.io/avia/Interstitial_1.png",
-      "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Take off, stay focused and master every flight challenge!",
-      "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
-      "weight": 1
-    },
-    {
-      "id": "avia_video_2",
-      "format": "video",
-      "placements": ["interstitial", "rewarded"],
-      "media_url": "https://arkenrockapp.github.io/avia/video_2.mp4",
-      "image_url": "https://arkenrockapp.github.io/avia/Interstitial_2.png",
-      "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Fly higher, react fast and enjoy exciting aviation challenges!",
-      "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
-      "weight": 1
-    },
-    {
       "id": "avia_interstitial_1",
       "format": "image",
       "placements": ["interstitial", "rewarded"],
