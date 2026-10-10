@@ -11,10 +11,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/avia/Interstitial_1.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Start your flight and take on exciting sky challenges!",
+      "title": "Online Аvіatоr",
+      "body": "Take off, stay focused and enjoy exciting Online Aviator challenges!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -23,10 +23,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/avia/Interstitial_2.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Take control, climb higher and master every aviation challenge!",
+      "title": "Online Аvіatоr",
+      "body": "Fly higher, react fast and master every Online Aviator challenge!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -35,10 +35,10 @@
       "placements": ["interstitial", "rewarded"],
       "image_url": "https://arkenrockapp.github.io/avia/Interstitial_3.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Explore the skies, sharpen your skills and enjoy every flight!",
+      "title": "Online Аvіatоr",
+      "body": "Explore the skies and enjoy fast-paced Online Aviator action!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -46,10 +46,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Your next aviation adventure is ready for takeoff!",
+      "title": "Online Аvіatоr",
+      "body": "Your next Online Aviator adventure is ready for takeoff!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -57,10 +57,10 @@
       "format": "text",
       "placements": ["interstitial", "rewarded"],
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Real Avia Game",
-      "body": "Fly, react and master exciting challenges in the sky!",
+      "title": "Online Аvіatоr",
+      "body": "Fly, react and enjoy exciting Online Aviator challenges!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -69,10 +69,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/avia/BannerAd_1.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Official Avia Game",
-      "body": "Start your aviation adventure today!",
+      "title": "Online Аvіatоr",
+      "body": "Start your Online Aviator adventure today!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -81,10 +81,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/avia/BannerAd_2.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Official Avia Game",
-      "body": "Take off and explore exciting new skies!",
+      "title": "Online Аvіatоr",
+      "body": "Take off and discover exciting Online Aviator action!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -93,10 +93,10 @@
       "placements": ["banner"],
       "image_url": "https://arkenrockapp.github.io/avia/BannerAd_3.png",
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Official Avia Game",
-      "body": "Fly higher and enjoy the aviation challenge!",
+      "title": "Online Аvіatоr",
+      "body": "Fly higher and enjoy the Online Aviator challenge!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     },
     {
@@ -104,10 +104,10 @@
       "format": "text",
       "placements": ["banner"],
       "icon_url": "https://arkenrockapp.github.io/avia/icon.png",
-      "title": "Official Avia Game",
-      "body": "Exciting flights and aviation challenges are waiting!",
+      "title": "Online Аvіatоr",
+      "body": "Exciting flights and Online Aviator challenges are waiting!",
       "cta_text": "Install",
-      "bundle_id": "com.emberlane.fluxboundrelics",
+      "bundle_id": "com.brasswakefoundry.grottosalvageworks",
       "weight": 1
     }
   ]
